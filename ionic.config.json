@@ -1,0 +1,7 @@
+{
+  "name": "echoVerseBloggerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
